@@ -98,7 +98,7 @@ These measures power dynamic calculations, trend analysis, and segmented compari
 ## 📸 Snapshots
 
 > 🖼️ Strategic Sales Performance  
-> ![Overview Screenshot](images/strategic_sales_performance.png)
+> ![Image](https://github.com/user-attachments/assets/b5364274-5ab1-4e25-a8ba-e507733da123)
 
 > 🖼️ Behavioral Analytics & Operational Insights  
 > ![Analysis Screenshot](images/behavioral_analytics_insights.png)
