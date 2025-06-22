@@ -101,7 +101,7 @@ These measures power dynamic calculations, trend analysis, and segmented compari
 > ![Image](https://github.com/user-attachments/assets/b5364274-5ab1-4e25-a8ba-e507733da123)
 
 > 🖼️ Behavioral Analytics & Operational Insights  
-> ![Analysis Screenshot](images/behavioral_analytics_insights.png)
+> ![Image](https://github.com/user-attachments/assets/239cdaf0-0a9b-4b6b-92e4-2e2e4e658abd)
 
 > *(Make sure to upload the corresponding screenshots to the `images/` folder in your repository.)*
 
